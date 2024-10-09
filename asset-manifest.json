@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tecba/static/css/main.f855e6bc.css",
+    "main.js": "/tecba/static/js/main.6600d761.js",
+    "static/js/453.318931e8.chunk.js": "/tecba/static/js/453.318931e8.chunk.js",
+    "index.html": "/tecba/index.html",
+    "main.f855e6bc.css.map": "/tecba/static/css/main.f855e6bc.css.map",
+    "main.6600d761.js.map": "/tecba/static/js/main.6600d761.js.map",
+    "453.318931e8.chunk.js.map": "/tecba/static/js/453.318931e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6600d761.js"
+  ]
+}
